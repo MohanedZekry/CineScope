@@ -12,12 +12,15 @@
 
 ## Table of Contents
 - [Getting Started](#gettingstarted)
-- [Requirements](#requirements)
 - [Intro](#intro)
 - [Screenshots](#screenshots)
+- [Requirements](#requirements)
 - [Implementation](#implementation)
 
 ## Getting Started
 1. The API Documentation [API](https://documenter.getpostman.com/view/10148579/2s93RZMpuo#auth-info-7440ff9d-9786-4db4-a09f-eb1b3729c34c)
 2. If you don't have Flutter SDK installed; Please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
+3. Clone the latest source [github](https://github.com/MohanedZekry/CineScope.git)
 
+## Intro
+- This app building using Flutter & TMDB API, injectable with get_it for DI, go_router for navigation between screens, BLoC as State Management, hive for local storage, dio as http client.
