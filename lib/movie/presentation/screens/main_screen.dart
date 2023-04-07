@@ -7,9 +7,8 @@ class MainScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      resizeToAvoidBottomInset: false,
-      bottomNavigationBar: const BottomNavWidget(),
+    return const Scaffold(
+      bottomNavigationBar: BottomNavWidget(),
       body: HomeScreen(),
     );
   }

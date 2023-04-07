@@ -21,6 +21,20 @@ class HomeScreen extends StatelessWidget {
                     'CineScope',
                     style: Theme.of(context).textTheme.titleMedium,
                   ),
+                  Center(
+                    child: Container(
+                      margin: EdgeInsets.only(top: MediaQuery.of(context).size.height *.1),
+                      height: MediaQuery.of(context).size.height * .15,
+                      child: AspectRatio(
+                        aspectRatio: 4/2,
+                        child: SizedBox(
+                          child: Image.network(
+                            'https://image.tmdb.org/t/p/w500/fQYcn5aaaCJMvTVBVH6B3e9kw5M.png'
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ),

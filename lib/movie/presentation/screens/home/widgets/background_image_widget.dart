@@ -18,7 +18,7 @@ class BackgroundImage extends StatelessWidget {
         ),
       ),
       child: Image.network(
-        'https://image.tmdb.org/t/p/w500//A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg',
+        'https://image.tmdb.org/t/p/w500/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg',
         fit: BoxFit.cover,
       ),
     );
