@@ -9,3 +9,15 @@
   Try CineScope now! <a href="https://github.com/MohanedZekry/CineScope">here</a>
   </p>
 </p>
+
+## Table of Contents
+- [Getting Started](#gettingstarted)
+- [Requirements](#requirements)
+- [Intro](#intro)
+- [Screenshots](#screenshots)
+- [Implementation](#implementation)
+
+## Getting Started
+1. The API Documentation [API](https://documenter.getpostman.com/view/10148579/2s93RZMpuo#auth-info-7440ff9d-9786-4db4-a09f-eb1b3729c34c)
+2. If you don't have Flutter SDK installed; Please visit the official [Flutter](https://docs.flutter.dev/get-started/install) website.
+
