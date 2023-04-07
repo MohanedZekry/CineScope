@@ -23,4 +23,4 @@
 3. Clone the latest source [github](https://github.com/MohanedZekry/CineScope.git)
 
 ## Intro
-- This app building using Flutter & TMDB API, injectable with get_it for DI, go_router for navigation between screens, BLoC as state management, hive for local storage and dio as http client.
+- This app developed using Flutter & TMDB API, injectable with get_it for DI, go_router for navigation between screens, BLoC as state management, hive for local storage and dio as http client.
