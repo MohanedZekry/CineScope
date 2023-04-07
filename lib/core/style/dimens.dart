@@ -28,6 +28,8 @@ class Dimens {
 
   static const double vPadding = 10.0;
   static const double hPadding = 15.0;
+  static const double hListPadding = 4.0;
+  static const double vListPadding = 8.0;
 
 
 }

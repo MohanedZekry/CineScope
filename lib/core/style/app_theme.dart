@@ -68,5 +68,8 @@ final appTheme = ThemeData(
               color: Colors.white
           ),
         ),
+    ),
+    iconTheme: const IconThemeData(
+      color: Colors.white
     )
 );
