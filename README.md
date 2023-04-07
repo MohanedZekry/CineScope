@@ -11,7 +11,7 @@
 </p>
 
 ## Table of Contents
-- [Getting Started](#gettingstarted)
+- [Getting Started](#getting-started)
 - [Intro](#intro)
 - [Screenshots](#screenshots)
 - [Requirements](#requirements)
