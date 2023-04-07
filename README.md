@@ -1,16 +1,11 @@
-# flutter_movie_clean_architecture
+<p align="center">
+  <h1 align="center">CineScope: Movies & TV Shwos</h1>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <p align="left">
+    CineScope is an open source movies & tv shows and tracking app. It has an excellent, clean interface, which makes the app a cinch to navigate. You can browse popular, top-rated, now playing and trending movies & tv shows, view user lists, or search directly for something.
+  With CineScope, you have movies and series information right at your fingertips!
+  </p>
+  <p align="left">
+  Try CineScope now! <a href="https://github.com/MohanedZekry/CineScope">here</a>
+  </p>
+</p>
